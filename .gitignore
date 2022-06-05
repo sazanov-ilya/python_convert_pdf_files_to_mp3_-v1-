@@ -1,0 +1,10 @@
+# вложеные каталоги
+.idea/
+__pycache__
+venv/
+fixtures/
+
+# файлы
+test.pdf
+test.mp3
+
